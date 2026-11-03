@@ -1,4 +1,4 @@
-# Krankethon — bitácora del hackathon
+# Krankenthon — bitácora del hackathon
 
 Juego de **horror 2.5D** en **Godot 4.7.2**. Personajes y props **dibujados a lápiz en papel**, escaneados y metidos en un diorama 3D oscuro. Animación **stop-motion** inspirada en DOGWALK (Blender Studio). Prioridad: **terminarlo rápido**. Que quede sucio no importa, es parte del estilo.
 

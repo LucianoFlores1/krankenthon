@@ -1,4 +1,4 @@
-# Krankethon — juego de horror 2.5D (hackathon)
+# Krankenthon — juego de horror 2.5D (hackathon)
 
 - Godot **4.7.2**, GDScript, Forward+. Exe: `%LOCALAPPDATA%\Microsoft\WinGet\Packages\GodotEngine.GodotEngine_Microsoft.Winget.Source_8wekyb3d8bbwe\Godot_v4.7.2-stable_win64_console.exe`
 - Estilo: dibujos a lápiz escaneados (sucio está bien) en un diorama 3D oscuro, animación stop-motion. **Usa la skill `paper-stop-motion-horror`** para todo lo visual, animación y sprites.

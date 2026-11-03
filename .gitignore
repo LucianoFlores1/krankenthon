@@ -1,0 +1,14 @@
+# Godot
+.godot/
+*.translation
+export_presets.cfg.local
+/build/
+
+# Referencia de terceros (DOGWALK, ~60 MB): se clona aparte, ver docs/HACKATHON.md
+_ref/
+
+# Escaneos crudos (pesados); se versionan los PNG limpios en art/
+scans/
+
+# Claude local
+.claude/settings.local.json

@@ -1,0 +1,43 @@
+[gd_resource type="SpriteFrames" format=3]
+
+[ext_resource type="Texture2D" path="res://art/characters/test_dummy/ACTN-scream/scream_01.png" id="1_ojcqw"]
+[ext_resource type="Texture2D" path="res://art/characters/test_dummy/ACTN-scream/scream_02.png" id="2_um2fl"]
+[ext_resource type="Texture2D" path="res://art/characters/test_dummy/ACTN-scream/scream_03.png" id="3_nwf30"]
+[ext_resource type="Texture2D" path="res://art/characters/test_dummy/LOOP-walk/walk_01.png" id="4_c2clw"]
+[ext_resource type="Texture2D" path="res://art/characters/test_dummy/LOOP-walk/walk_02.png" id="5_eh3kt"]
+[ext_resource type="Texture2D" path="res://art/characters/test_dummy/LOOP-walk/walk_03.png" id="6_kp25v"]
+[ext_resource type="Texture2D" path="res://art/characters/test_dummy/LOOP-walk/walk_04.png" id="7_x4m00"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_ojcqw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_um2fl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_nwf30")
+}],
+"loop": 0,
+"name": &"scream",
+"speed": 12.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("4_c2clw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_eh3kt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_kp25v")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_x4m00")
+}],
+"loop": 1,
+"name": &"walk",
+"speed": 12.0
+}]
